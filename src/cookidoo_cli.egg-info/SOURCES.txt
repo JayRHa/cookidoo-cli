@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/cookidoo_cli/__init__.py
+src/cookidoo_cli/__main__.py
+src/cookidoo_cli/cli.py
+src/cookidoo_cli/const.py
+src/cookidoo_cli/transform.py
+src/cookidoo_cli.egg-info/PKG-INFO
+src/cookidoo_cli.egg-info/SOURCES.txt
+src/cookidoo_cli.egg-info/dependency_links.txt
+src/cookidoo_cli.egg-info/entry_points.txt
+src/cookidoo_cli.egg-info/requires.txt
+src/cookidoo_cli.egg-info/top_level.txt
+tests/test_transform.py
