@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides cLI tool for interacting with the Cookidoo recipe platform.
+CLI tool for interacting with the Cookidoo recipe platform.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
