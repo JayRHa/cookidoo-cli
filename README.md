@@ -1,18 +1,3 @@
-<!-- repo-standard:start -->
-# Cookidoo CLI
-
-CLI tool for interacting with the Cookidoo recipe platform.
-
-| Area | Stack | Visibility |
-| --- | --- | --- |
-| CLI Tooling | Python | Public |
-
-**Repository:** `JayRHa/cookidoo-cli`  
-**Topics:** `cookidoo`, `cli`, `python`, `recipes`, `thermomix`
-<!-- repo-standard:end -->
-
----
-
 <div align="center">
   <h1>Cookidoo CLI</h1>
   <p><strong>Thermomix recipes, shopping lists, and meal plans from your terminal.</strong></p>
